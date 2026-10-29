@@ -565,3 +565,11 @@ footer p {
         padding: 24px;
     }
 }
+.menu-category {
+    margin: 45px 0 22px;
+    font-size: 1.8rem;
+    text-align: center;
+}
+.menu-category:first-of-type {
+    margin-top: 35px;
+}
